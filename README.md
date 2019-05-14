@@ -3,7 +3,7 @@
 > A Vue.js project
 
 ## Url
- [https://vue-graphic.github.io/web/](https://vue-graphic.github.io/web/)
+ [https://jerrychong25.github.io/travisci/](https://jerrychong25.github.io/TravisCI/)
 
 ## Build Setup
 
